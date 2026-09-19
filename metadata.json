@@ -1,0 +1,6 @@
+{
+  "name": "Digital Coaching",
+  "description": "ডিজিটাল কোচিং সেন্টারে শিক্ষক নিয়োগ ও পোর্টাল - মাসিক বেতন ৩৫,০০০ টাকা, ৯৯৯ টাকা রেজিস্ট্রেশন ফি এবং ইন্টারভিউ ভিত্তিক সিলেকশন সিস্টেম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
